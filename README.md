@@ -7,3 +7,6 @@ Verify the reports on [SlowMist](https://github.com/slowmist/Knowledge-Base/blob
 
 ## Stable AMM on EVM
 Verify the reports on [PeckShield](https://github.com/peckshield/publications/tree/master/audit_reports/PeckShield-Audit-Report-Zenlink-v1.0.pdf)
+
+## Stable AMM on Substrate
+Verify the reports on [PeckShield](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-ZenlinkDex-v1.0.pdf)
